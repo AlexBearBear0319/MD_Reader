@@ -2,7 +2,7 @@
 
 <p align="center"><img src="app/icon-1024.png" width="160" alt="Marginalia app icon"></p>
 
-A quiet, Typora-style Markdown editor for macOS. It renders your document as you type: the paragraph you are editing shows its Markdown, and everything else stays formatted. There is no split preview.
+A quiet, Markdown editor for macOS. It renders your document as you type: the paragraph you are editing shows its Markdown, and everything else stays formatted. There is no split preview.
 
 ## Features
 
